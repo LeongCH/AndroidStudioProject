@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet</string>
+    <string name="title_home">Home</string>
+    <string name="title_pet_care">Pet Care</string>
+    <string name="title_adoption">Adoption</string>
+    <string name="title_donation">Donation</string>
+    <string name="title_pet_service">Pet Service</string>
+    <string name="context">HELLO, DR TANG</string>
+</resources>

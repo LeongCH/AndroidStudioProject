@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_pet_care"
+        android:icon="@drawable/ic_pet_care_icon"
+        android:title="@string/title_pet_care" />
+
+    <item
+        android:id="@+id/navigation_adoption"
+        android:icon="@drawable/ic_pets_black_24dp"
+        android:title="@string/title_adoption" />
+
+    <item
+        android:id="@+id/navigation_pet_service"
+        android:icon="@drawable/ic_pet_service_icon"
+        android:title="@string/title_pet_service" />
+
+    <item
+        android:id="@+id/navigation_donation"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/title_donation" />
+</menu>
